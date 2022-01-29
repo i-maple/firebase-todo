@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448335454187",
+    "project_id": "todo-2ee46",
+    "storage_bucket": "todo-2ee46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448335454187:android:245ae4ad42d169650d03ae",
+        "android_client_info": {
+          "package_name": "com.maplestudio.scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448335454187-bh4lq0sae4341npkod89ahgj68aj1dis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VCJhHX_6r-PwObfDapJLl1oVlvezqao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448335454187-bh4lq0sae4341npkod89ahgj68aj1dis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
